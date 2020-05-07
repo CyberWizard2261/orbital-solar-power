@@ -1,6 +1,4 @@
 data:extend({
-
-
 	{
 		type = "recipe",
 		name = "CW-space-solar-panel",
